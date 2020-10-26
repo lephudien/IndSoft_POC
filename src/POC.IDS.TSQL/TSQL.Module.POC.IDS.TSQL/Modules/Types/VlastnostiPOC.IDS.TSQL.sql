@@ -1,0 +1,2 @@
+CREATE TYPE [Module.POC.IDS.TSQL].[VlastnostiPOC.IDS.TSQL]
+	FROM varchar(128) NULL
